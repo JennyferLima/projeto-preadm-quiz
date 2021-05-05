@@ -1,0 +1,17 @@
+body {
+  background-color: PaleGoldenrod;
+  font-family: Verdana, sans-serif;
+  
+  padding: 40px;
+  text-align: center;
+  border: 5px solid goldenrod;
+}
+h1 {
+  color: goldenrod;
+}
+h2 {
+  color: goldenrod;
+}
+h3 {
+  color: whiteSmoke;
+}
